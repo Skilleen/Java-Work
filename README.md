@@ -8,3 +8,5 @@ Test Scores - Saves the scores of 2 classes to a file, and then reads the file a
 Planets - A program that will receive input of a user's name, age, and weight and display their new age and weight on another planet.
 
 Image Processor - Rotates and flips images using 2 dimensional arrays.
+
+Dog Walking Club - Creates multiple dog owner objects, and then matches compatiable dog owners so they can walk together. 
