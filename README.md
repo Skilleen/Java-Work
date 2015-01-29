@@ -10,3 +10,5 @@ Planets - A program that will receive input of a user's name, age, and weight an
 Image Processor - Rotates and flips images using 2 dimensional arrays.
 
 Dog Walking Club - Creates multiple dog owner objects, and then matches compatiable dog owners so they can walk together. 
+
+Real Estate - Creates a Java GUI for a real estate agent. Allows them to add and customize houses, apartments, and offices. It then gives then a break down of rent, taxes, and profit.
